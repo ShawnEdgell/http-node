@@ -22,7 +22,7 @@ A simple "Hello, World!" HTTP server built with Node.js, the Fastify web framewo
 
 Once deployed to the VPS, the application will be accessible at a URL similar to:
 
-➡️ **[https://node.skatebit.app](https://node.skatebit.app)** (Replace with your actual target subdomain)
+➡️ **[https://node.skatebit.app](https://node.skatebit.app)**
 
 ### Endpoints (Target Live URL)
 
@@ -47,7 +47,7 @@ This is the recommended way to run the application locally for development and t
 1.  **Clone the repository (if you haven't already):**
 
     ```bash
-    git clone [https://github.com/ShawnEdgell/http-node.git](https://github.com/ShawnEdgell/http-node.git) # Replace with your actual repo URL
+    git clone [https://github.com/ShawnEdgell/http-node.git](https://github.com/ShawnEdgell/http-node.git)
     cd http-node
     ```
 
